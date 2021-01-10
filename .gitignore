@@ -1,0 +1,7 @@
+# Documentation
+docs/
+phpunit.phar
+
+# Composer
+composer.lock
+vendor/
